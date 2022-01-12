@@ -11,7 +11,7 @@
 - skiping qestion with a swipe
 - leaderboard
 
-<h1>Testing on Android 10 - Xiaomi Redmi Note 8 or Pixel 4</h1>
+<h1>Testing on Android 10 - Xiaomi Redmi Note 8 and Pixel 4</h1>
 <img src="img/PlFqRluNcm4.jpg" width="30%" height="30%"/>
 
 
